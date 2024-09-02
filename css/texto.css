@@ -2,13 +2,19 @@ body{
     font-family: cursive;
     background-color: bisque;
 }
-.textogrande {
-    font-size: 25px;
-    color: lightpink;
+
+.texto{
+    color: darkslategray;
   }
+
 .texto_pied{
     color: olive;
 }
-.texto_enlaces{
+
+#titulo{
+    color:lightpink;
+}
+
+div a{
     color: black;
 }
