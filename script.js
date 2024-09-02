@@ -1,1 +1,1 @@
-alert("te amo mi vida")
+alert("Somos sammcoly")

@@ -1,0 +1,14 @@
+body{
+    font-family: cursive;
+    background-color: bisque;
+}
+.textogrande {
+    font-size: 25px;
+    color: lightpink;
+  }
+.texto_pied{
+    color: olive;
+}
+.texto_enlaces{
+    color: black;
+}
